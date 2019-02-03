@@ -1,3 +1,6 @@
 # RakuWebGit
 last update by 20180930 
-now change from centos
+change it now sunday 
+ok let hello world !
+from server
+from lc
